@@ -1,0 +1,7 @@
+mmtpp_site/
+├── header.html
+├── footer.html
+├── page1.html
+├── feedback.html
+├── style.css
+└── script.js
